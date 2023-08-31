@@ -1,0 +1,5 @@
+IP: 158.160.75.66;
+name_taski: https://taskink.hopto.org;
+name_kittygram: https://kittygram-nk.hopto.org;
+login: Nina;
+password: 2001;
